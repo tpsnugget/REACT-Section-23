@@ -9,5 +9,7 @@
 
 # 165: Writing the DogList Component
 
+# 166: adding the DegDetails Component
+
 Add params and variables to routes
 Invalid routes redirect to homepage
