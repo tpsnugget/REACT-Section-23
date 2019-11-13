@@ -5,6 +5,7 @@ import hazel from "./imgs/hazel.jpg"
 import tubby from "./imgs/tubby.jpg"
 import DogList from "./DogList"
 import DogDetails from "./DogDetails"
+import NavBar from "./NavBar"
 import './App.css';
 
 class App extends Component {
@@ -61,6 +62,7 @@ class App extends Component {
     }
     return (
       <div>
+        <NavBar dogs={this.props.dogs}/>
         <Switch>
           <Route exact path="/dogs" render={() => <DogList dogs={this.props.dogs} />} />
           <Route exact path="/dogs/:name" render={getDog} />

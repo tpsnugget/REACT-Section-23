@@ -11,5 +11,4 @@
 
 # 166: adding the DegDetails Component
 
-Add params and variables to routes
-Invalid routes redirect to homepage
+# 167: Creating Our NavBar Component
