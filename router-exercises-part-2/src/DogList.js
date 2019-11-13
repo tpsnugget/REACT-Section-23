@@ -1,4 +1,5 @@
 import React, { Component } from "react"
+import DogDetails from "./DogDetails"
 import "./DogList.css"
 
 class DogList extends Component {
