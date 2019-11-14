@@ -14,3 +14,6 @@
 # 167: Creating Our NavBar Component
 
 # 168: Refactoring & Extracting Our Routes
+
+# 169: A Couple Small Tweaks
+   Click on each dog
